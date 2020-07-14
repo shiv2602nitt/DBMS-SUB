@@ -1,0 +1,18 @@
+This Project Divided into two modules
+
+Admin
+Student
+
+Installation Steps(Configuration)
+1. Download file.
+2. Put this file inside the root directory.
+3. Database Configuration.
+
+Open PHPMyAdmin
+Create Database onlinecourse
+Import database onlinecourse.sql (available inside the zip package)
+Open Your browser put inside browser “http://localhost/onlinecourse”
+Login Details
+To log in as admin put inside browser “http://localhost/onlinecourse/admin”
+Login Details for admin: admin/Test@123
+To log in as Student put inside browser “http://localhost/onlinecourse/”
